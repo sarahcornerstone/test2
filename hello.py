@@ -7,3 +7,6 @@ b_int = 3
 c_int = 2
 print (a_int + b_int * c_int)
 print ( (a_int + b_int) * c_int)
+
+digits = "0123456789"
+print (digits[::2])
